@@ -87,7 +87,7 @@ Netlify Cloud Platform
 
 ### Deployment URL
 
-(Add after deployment)
+https://bcs601-4mw23cs073.netlify.app/
 
 ### GitHub Repository
 
